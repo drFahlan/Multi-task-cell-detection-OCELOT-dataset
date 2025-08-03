@@ -13,6 +13,8 @@ And from the extracted samples, which include large FoVs and their small FoV pai
 
 # Data description
 
+From the collected data, we acquired a total of 663 samples with the distribution given in the table below
+
 <div align="center">
 
 <table>
@@ -35,7 +37,28 @@ And from the extracted samples, which include large FoVs and their small FoV pai
   </tbody>
 </table>
 
-<p><em>Tabel sebaran sampel <strong>OCELOT dataset</strong> pada tiap organ</em></p>
+<p><em>Table 1: OCELOT dataset sample distribution by organ</em></p>
 
 </div>
 
+Each sample of the OCELOT dataset consists of: a large FoV with its tissue region annotation, and a small FoV with cell point annotation. see Figure 1.
+
+large FoV: 
+- Image resolution around 0.77 Microns-per-Pixel (MPP)
+- Tissue region annotation in .png file with 3 classes: non-cancer area (1), cancer area (2), unknown (255).
+
+<div align="center">
+
+| Pixel Intensity | Train                    | Val                      | Test                     |
+|------------------|--------------------------|---------------------------|---------------------------|
+| 1                | 235409146 (56.13%)       | 79082000 (55.05%)         | 67427541 (51.03%)         |
+| 2                | 166661770 (39.74%)       | 57805340 (40.24%)         | 58590757 (44.35%)         |
+| 255              | 17359484 (4.14%)         | 6767572 (4.71%)           | 6102278 (4.62%)           |
+
+
+</div>
+
+
+small FoV:
+- Image resolution around 0.19 MPP
+- Cell point annotation in a .csv file with 2 classes: non-tumor cells (1), and tumor cells (2)
