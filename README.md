@@ -4,7 +4,7 @@
 This repository is part of our research documentation, which you can access here.
 
 <p align="center">
-  <img src="images/sampel.png" width="600" alt="Figure 1: A sample from OCELOT dataset">
+  <img src="images/sampel.drawio.png" width="600" alt="Figure 1: A sample from OCELOT dataset">
 </p>
 
 <p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
