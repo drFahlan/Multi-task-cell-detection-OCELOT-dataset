@@ -3,7 +3,7 @@
 ## Overview
 This repository is part of our research documentation, which you can access here.
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ffb11e-aa82-4fd2-a03c-7f5fdc868a1e" />
+<img align="center" width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ffb11e-aa82-4fd2-a03c-7f5fdc868a1e" />
 
 <p align="center"><em>Figure 1. This is the caption</em></p>
 
