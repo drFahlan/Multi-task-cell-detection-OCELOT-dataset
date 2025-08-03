@@ -3,8 +3,10 @@
 ## Overview
 This repository is part of our research documentation, which you can access here.
 
+![Figure 1: A sample from OCELOT dataset](images/sampel.png)
+
 <p align="center">
-  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ffb11e-aa82-4fd2-a03c-7f5fdc868a1e" />
+  <img src="images/figure1.png" width="600" alt="Figure 1: A sample from OCELOT dataset">
 </p>
 
 <p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
