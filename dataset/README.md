@@ -13,12 +13,29 @@ And from the extracted samples, which include large FoVs and their small FoV pai
 
 # Data description
 
-| Organ         | Train | Val | Test |
-|---------------|-------|-----|------|
-| bladder       | 82    | 29  | 24   |
-| endometrium   | 86    | 29  | 23   |
-| head-and-neck | 27    | 9   | 10   |
-| kidney        | 122   | 41  | 41   |
-| prostate      | 47    | 17  | 16   |
-| stomach       | 36    | 12  | 12   |
-| **Total**     | 400   | 137 | 126  |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Organ</th>
+      <th>Train</th>
+      <th>Val</th>
+      <th>Test</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>bladder</td><td>82</td><td>29</td><td>24</td></tr>
+    <tr><td>endometrium</td><td>86</td><td>29</td><td>23</td></tr>
+    <tr><td>head-and-neck</td><td>27</td><td>9</td><td>10</td></tr>
+    <tr><td>kidney</td><td>122</td><td>41</td><td>41</td></tr>
+    <tr><td>prostate</td><td>47</td><td>17</td><td>16</td></tr>
+    <tr><td>stomach</td><td>36</td><td>12</td><td>12</td></tr>
+    <tr><td><strong>Total</strong></td><td><strong>400</strong></td><td><strong>137</strong></td><td><strong>126</strong></td></tr>
+  </tbody>
+</table>
+
+<p><em>Tabel sebaran sampel <strong>OCELOT dataset</strong> pada tiap organ</em></p>
+
+</div>
+
