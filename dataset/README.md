@@ -12,7 +12,7 @@ And from the extracted samples, which include large FoVs and their small FoV pai
 <p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
 
 # Data description
-
+g
 | Organ         | Train | Val | Test |
 |---------------|-------|-----|------|
 | bladder       | 82    | 29  | 24   |
