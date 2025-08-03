@@ -161,3 +161,7 @@ Besides, there are also common morphological characteristics of each cell class,
 </p>
 
 <p align="center"><em>Figure 6. An example of tumor cell </em></p>
+
+# Data verification
+
+We conduct data verification to evaluate the quality of the data. Based on our evaluation, there are no inconsistencies or missing data in the OCELOT dataset.
