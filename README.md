@@ -1,14 +1,13 @@
 # Tumor cell detection using small and large FoV
 
-## Overview
-This repository is part of our research documentation, which you can access here.
-
 <p align="center">
   <img src="images/sampel.drawio.png" width="400" alt="Figure 1: A sample from OCELOT dataset">
 </p>
 
 <p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
 
+## Overview
+This repository is part of our research documentation, which you can access here.
 
 The ocelot dataset is a distinguished dataset that facilitates multiscale cell detection via multitask feature integration. Following the release of the OCELOT dataset, we conduct:
 1. Evaluation of multiple different feature integration strategies on a consistent cell detection pipeline.
