@@ -125,5 +125,39 @@ small FoV:
 # Data exploration
 We conduct a data exploration to get to know the RoI or the segmentation target characteristics and challenges.
 
+Large FoV provides a bigger context than small FoV, showing the structure of the tissue.
 
+<p align="center">
+  <img src="../images/vis large FoV.png" width="400" >
+</p>
 
+<p align="center"><em>Figure 2. Visualization of large FoV samples</em></p>
+
+While small FoV zooming in to capture the cells' morphology.
+
+<p align="center">
+  <img src="../images/Vis small FoV.png" width="400" >
+</p>
+
+<p align="center"><em>Figure 3. Visualization of small FoV samples</em></p>
+
+Based on our data exploration, the main factor that distinguishes tumor cells and non-tumor cells is the spatial location. Our observation shows that each cell class lives in a cluster, see Figure 4.
+<p align="center">
+  <img src="../images/overlayed small FoV.png" width="400" >
+</p>
+
+<p align="center"><em>Figure 4. A sample of small FoV, overlayed with the cell point annotation</em></p>
+
+Besides, there are also common morphological characteristics of each cell class, as you can see in Figures 5 and 6. However, again the with the intratumoral variability, there are many other tumor cells with different morphology.
+
+<p align="center">
+  <img src="../images/non-tumor cell.png" width="400" >
+</p>
+
+<p align="center"><em>Figure 5. An example of non-tumor cell </em></p>
+
+<p align="center">
+  <img src="../images/tumor cell.png" width="400" >
+</p>
+
+<p align="center"><em>Figure 6. An example of tumor cell </em></p>
