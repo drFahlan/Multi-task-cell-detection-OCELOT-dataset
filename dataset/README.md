@@ -122,3 +122,8 @@ small FoV:
 
 </div>
 
+# Data exploration
+We conduct a data exploration to get to know the RoI or the segmentation target characteristics and challenges.
+
+
+
