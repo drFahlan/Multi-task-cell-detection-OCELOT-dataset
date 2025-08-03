@@ -5,4 +5,20 @@ The OCELOT dataset was collected from hundreds of Hematoxylin and Eosin (H&E) st
 
 And from the extracted samples, which include large FoVs and their small FoV pair, annotation was performed. A total of 67 board-certified pathologists perform a tissue region annotation on the large FoV and a cell point annotation on the small FoV.
 
+<p align="center">
+  <img src="images/sampel.drawio.png" width="400" alt="Figure 1: A sample from OCELOT dataset">
+</p>
 
+<p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
+
+# Data description
+
+| Organ         | Train | Val | Test |
+|---------------|-------|-----|------|
+| bladder       | 82    | 29  | 24   |
+| endometrium   | 86    | 29  | 23   |
+| head-and-neck | 27    | 9   | 10   |
+| kidney        | 122   | 41  | 41   |
+| prostate      | 47    | 17  | 16   |
+| stomach       | 36    | 12  | 12   |
+| **Total**     | 400   | 137 | 126  |
