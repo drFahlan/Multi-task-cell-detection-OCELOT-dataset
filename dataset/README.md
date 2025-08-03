@@ -48,6 +48,7 @@ large FoV:
 - Tissue region annotation in .png file with 3 classes: non-cancer area (1), cancer area (2), unknown (255).
 
 <div align="center">
+<p><em>Table 2: Tissue region annotation class distribution</em></p>
 
 | Pixel Intensity | Train                    | Val                      | Test                     |
 |------------------|--------------------------|---------------------------|---------------------------|
@@ -55,7 +56,6 @@ large FoV:
 | 2                | 166661770 (39.74%)       | 57805340 (40.24%)         | 58590757 (44.35%)         |
 | 255              | 17359484 (4.14%)         | 6767572 (4.71%)           | 6102278 (4.62%)           |
 
-<p><em>Table 2: Tissue region annotation class distribution</em></p>
 </div>
 
 
@@ -63,9 +63,9 @@ small FoV:
 - Image resolution around 0.19 MPP
 - Cell point annotation in a .csv file with 2 classes: non-tumor cells (1), and tumor cells (2)
 
-  <div align="center">
+<div align="center">
 
-<h4>Tabel sebaran <em>train</em>, <em>val</em>, dan <em>test</em> pada tiap organ</h4>
+<p><em>Table 3: Cell point annotation class distribution</em></p>
 
 <table>
   <thead>
@@ -122,6 +122,5 @@ small FoV:
   </tbody>
 </table>
 
-<p><em>Table 3: Cell point annotation class distribution</em></p>
 </div>
 
