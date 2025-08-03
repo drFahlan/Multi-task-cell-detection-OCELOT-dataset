@@ -16,7 +16,7 @@ And from the extracted samples, which include large FoVs and their small FoV pai
 From the collected data, we acquired a total of 663 samples with the distribution given in the table below
 
 <div align="center">
-
+<p><em>Table 1: OCELOT dataset sample distribution by organ</em></p>
 <table>
   <thead>
     <tr>
@@ -36,8 +36,6 @@ From the collected data, we acquired a total of 663 samples with the distributio
     <tr><td><strong>Total</strong></td><td><strong>400</strong></td><td><strong>137</strong></td><td><strong>126</strong></td></tr>
   </tbody>
 </table>
-
-<p><em>Table 1: OCELOT dataset sample distribution by organ</em></p>
 
 </div>
 
