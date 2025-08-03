@@ -3,9 +3,12 @@
 ## Overview
 This repository is part of our research documentation, which you can access here.
 
-<img align="center" width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ffb11e-aa82-4fd2-a03c-7f5fdc868a1e" />
+<p align="center">
+  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/e2ffb11e-aa82-4fd2-a03c-7f5fdc868a1e" />
+</p>
 
-<p align="center"><em>Figure 1. This is the caption</em></p>
+<p align="center"><em>Figure 1. A sample from OCELOT dataset</em></p>
+
 
 The ocelot dataset is a distinguished dataset that facilitates multiscale cell detection via multitask feature integration. Following the release of the OCELOT dataset, we conduct:
 1. Evaluation of multiple different feature integration strategies on a consistent cell detection pipeline.
